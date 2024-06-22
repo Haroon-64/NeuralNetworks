@@ -9,4 +9,5 @@
    * WaveNet to further Optimize
 3. Decoder Only Transformer
    * Generate unprompted text similar to given dataset
-4. Encoder (pending)
+4. Gpt 2 model replication 
+5. Gpt 2 result replication (pending)
